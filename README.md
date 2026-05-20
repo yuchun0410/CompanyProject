@@ -9,7 +9,7 @@
 
 [google連外部](http://www.google.com)
  
-[doc文件](doc/index.html)
+[doc文件](doc/exam.txt)
 
 [java檔](SchoolProject/src/com/sa/Student.java)
 | Column 1 | Column2 | Column 3 |
